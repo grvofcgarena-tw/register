@@ -3,7 +3,7 @@
     "username": "grvofcgarena-tw",
     "email": "grv.ofc.garena@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "grvpanel.up.railway.app"
   },
   "description": "A management panel for a Discord bot used by a Free Fire league team to manage server operations and security."
